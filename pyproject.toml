@@ -10,6 +10,7 @@ python = "^3.12"
 torch = "^2.5.1"
 torchvision = "^0.20.1"
 matplotlib = "^3.9.2"
+scikit-learn = "^1.5.2"
 
 
 [build-system]
